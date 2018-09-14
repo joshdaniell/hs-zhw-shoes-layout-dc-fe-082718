@@ -112,6 +112,7 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+  float: left;
 }
 
 .milk_text {
@@ -124,6 +125,7 @@ iframe {
 .border_right {
   border-right: 1px dotted #ccc;
   padding-right: 20px;
+  float: left;
 }
 
 .thumbs_up {
@@ -251,6 +253,29 @@ a.gplus:active { background-position: -80px -80px; }
   background-repeat: no-repeat, repeat-y;
   padding: 30px 0;
 }
+
+#featured {
+  float: left;
+}
+
+#archives {
+  float: right;
+  overflow: auto;
+}
+
+.col-small {
+  width: 33%;
+}
+
+.col-medium {
+  width: 66%;
+}
+
+.col-large {
+  width: 99%;
+}
+
+
 
 /********** Sections **********/
 
