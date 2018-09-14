@@ -262,6 +262,14 @@ a.gplus:active { background-position: -80px -80px; }
   width: 33%;
 }
 
+.col-medium {
+  width: 66%;
+}
+
+.col-large {
+  width: 99%;
+}
+
 /********** Sections **********/
 
 section {
