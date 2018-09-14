@@ -254,7 +254,7 @@ a.gplus:active { background-position: -80px -80px; }
 
 #featured {
   float: left;
-  clear: both;
+  /*clear: both;*/
 }
 
 /*#archives {*/
