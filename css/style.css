@@ -254,7 +254,7 @@ a.gplus:active { background-position: -80px -80px; }
 
 #featured {
   float: left;
-  display: inline;
+  
   /*clear: both;*/
 }
 
@@ -266,7 +266,7 @@ a.gplus:active { background-position: -80px -80px; }
 
 .col-small {
   width: 31%;
-  /*float: right;*/
+  float: right;
 }
 
 .col-medium {
