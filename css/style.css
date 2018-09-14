@@ -252,16 +252,16 @@ a.gplus:active { background-position: -80px -80px; }
   padding: 30px 0;
 }
 
-#featured {
-  float: left;
-  clear: both;
-}
+/*#featured {*/
+/*  float: left;*/
+/*  clear: both;*/
+/*}*/
 
-#archives {
-  float: right;
-  height: auto;
+/*#archives {*/
+/*  float: right;*/
+/*  height: auto;*/
   /*clear: both;*/
-}
+/*}*/
 
 .col-small {
   width: 31%;
