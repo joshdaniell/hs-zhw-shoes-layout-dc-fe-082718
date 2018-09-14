@@ -259,12 +259,12 @@ a.gplus:active { background-position: -80px -80px; }
 /*}*/
 
 .col-small {
-  width: 33%;
+  width: 30%;
   float: right;
 }
 
 .col-medium {
-  width: 66%;
+  width: 60%;
   float: left;
 }
 
