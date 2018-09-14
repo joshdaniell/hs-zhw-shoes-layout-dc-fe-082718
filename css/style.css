@@ -255,7 +255,7 @@ a.gplus:active { background-position: -80px -80px; }
 .clearfix:after {
   content: "";
   clear: both;
-  
+  display: table;
 }
 
 /********** Sections **********/
