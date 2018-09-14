@@ -257,6 +257,11 @@ a.gplus:active { background-position: -80px -80px; }
   clear: both;
 }
 
+#archives {
+  float: right;
+  clear: both;
+}
+
 .col-small {
   width: 33%;
   float: right;
