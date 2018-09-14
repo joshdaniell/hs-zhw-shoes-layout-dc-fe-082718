@@ -259,7 +259,6 @@ a.gplus:active { background-position: -80px -80px; }
 #archives {
   float: right;
   overflow: auto;
-  height: 100%;
 }
 
 .col-small {
